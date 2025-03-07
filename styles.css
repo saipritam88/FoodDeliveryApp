@@ -64,9 +64,9 @@ section {
 
 #menu img {
     width: 200px;
-    height: auto;
+    height: 200px;
     border-radius: 10px;
-}
+    }
 
 form input, form textarea, form button {
     display: block;
